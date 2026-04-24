@@ -88,7 +88,7 @@ The platform analyzes manufacturing telemetry including temperature, pressure, v
 <img width="3430" height="1755" alt="Image" src="https://github.com/user-attachments/assets/c8019c2a-db7d-44f8-b5f7-e245cd6da778" />
 
 ### Test Coverage Diagram
-<img width="400" height="auto" alt="Image" src="https://github.com/user-attachments/assets/9c57dc7e-b306-497e-b571-febd555619a9" />
+<img width="250" height="auto" alt="Image" src="https://github.com/user-attachments/assets/9c57dc7e-b306-497e-b571-febd555619a9" />
 
 
 ---
