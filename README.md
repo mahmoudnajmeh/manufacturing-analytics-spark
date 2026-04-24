@@ -3,9 +3,10 @@
 A **learning project** demonstrating Apache Spark, Delta Lake, and AI assistant capabilities for manufacturing data analysis.
 
 ## Author
-**Mahmoud Najmeh**
+**Mahmoud Najmeh**  
+<img src="https://avatars.githubusercontent.com/u/78208459?u=c3f9c7d6b49fc9726c5ea8bce260656bcb9654b3&v=4" width="200px" style="border-radius: 50%;">
 
----
+------------------------------------------------------------------------
 
 ## 🎯 Overview
 
@@ -63,29 +64,30 @@ The project processes a **small sample dataset** (12 rows, 4 machines) to showca
 ## 🏗 Architecture
 
 ### Architecture Overview Diagram
+<img width="5689" height="4439" alt="Image" src="https://github.com/user-attachments/assets/5dbb54be-0dbe-45c3-be2e-ebb469743379" />
 
 
 ### Delta Lake Time Travel & Versioning Flow
-
+<img width="4873" height="3236" alt="Image" src="https://github.com/user-attachments/assets/b5c5215f-beef-4221-8142-575945daa25b" />
 
 
 ### AI Assistant Architecture
-
+<img width="3909" height="2319" alt="Image" src="https://github.com/user-attachments/assets/cd697667-db04-4ce5-a79f-9eab89b70deb" />
 
 
 ### Complete Pipeline Data Flow
-
+<img width="6826" height="4028" alt="Image" src="https://github.com/user-attachments/assets/9d2f3619-0690-42b7-bf16-10651175659d" />
 
 
 ### Project Module Structure
-
+<img width="11442" height="1243" alt="Image" src="https://github.com/user-attachments/assets/9bb5b434-53de-49b3-a1a3-62c60f0337d7" />
 
 
 ### Technology Stack
-
+<img width="3430" height="1755" alt="Image" src="https://github.com/user-attachments/assets/c8019c2a-db7d-44f8-b5f7-e245cd6da778" />
 
 ### Test Coverage Diagram
-
+<img width="1158" height="4964" alt="Image" src="https://github.com/user-attachments/assets/9c57dc7e-b306-497e-b571-febd555619a9" />
 
 
 ---
