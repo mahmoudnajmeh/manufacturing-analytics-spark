@@ -1,6 +1,6 @@
-# 🏭 Manufacturing Analytics Demo
+# 🏭 Manufacturing Analytics Platform
 
-A **learning project** demonstrating Apache Spark, Delta Lake, and AI assistant capabilities for manufacturing data analysis.
+Apache Spark, Delta Lake, and AI-powered analytics for manufacturing data.
 
 ## Author
 **Mahmoud Najmeh**  
