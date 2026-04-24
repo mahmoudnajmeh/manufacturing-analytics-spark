@@ -105,7 +105,7 @@ The project processes a **small sample dataset** (12 rows, 4 machines) to showca
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/MN10101/manufacturing_analytics_spark.git
+git clone https://github.com/mahmoudnajmeh/manufacturing-analytics-spark.git
 cd manufacturing_analytics_spark
 
 # 2. Install dependencies using uv
