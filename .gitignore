@@ -1,0 +1,57 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+lake/
+chroma_db/
+checkpoint/
+data/sensor_streaming/*.json
+!.gitkeep
+*.parquet
+*.delta
+_delta_log/
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Spark
+metastore_db/
+derby.log
+spark-warehouse/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
