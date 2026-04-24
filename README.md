@@ -10,14 +10,15 @@ Apache Spark, Delta Lake, and AI-powered analytics for manufacturing data.
 
 ## 🎯 Overview
 
-This is an **educational project** built to learn and demonstrate:
+The Manufacturing Analytics Platform processes factory sensor data using:
+
 - Apache Spark for distributed data processing
 - Delta Lake for ACID transactions and time travel
 - MLlib for predictive maintenance clustering
-- Structured Streaming for real-time data simulation
+- Structured Streaming for anomaly detection
 - AI assistant with web search integration
 
-The project processes a **small sample dataset** (12 rows, 4 machines) to showcase Spark concepts on a local development machine.
+The platform analyzes manufacturing telemetry including temperature, pressure, vibration, power consumption, production rates, and defect rates across multiple machines and shifts.
 
 ### Key Capabilities
 
